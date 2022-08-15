@@ -1,0 +1,5 @@
+homepage: "https://www.novergeme.ru/"
+documentation: "https://github.com/novergeme/gtm-template-vk-pixel-and-retargeting-demo/blob/main/README.md"
+versions:
+  - sha: ac09f3bd7ab5ef5186793941f99a254c0330841a
+    changeNotes: Initial release.
